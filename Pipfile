@@ -9,6 +9,8 @@ openai = "*"
 black = "*"
 python-dotenv = "*"
 langchain-openai = "*"
+langchain-anthropic = "*"
+langchain-community = "*"
 
 [dev-packages]
 
